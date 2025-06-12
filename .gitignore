@@ -1,0 +1,7 @@
+node_modules/
+client/node_modules/
+client/.cache/
+venv/
+*.log
+.DS_Store
+Thumbs.db
